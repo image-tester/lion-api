@@ -26,3 +26,7 @@ section.stats
 
     Lion.UserStats content=deletionStats pointsProperty="numberOfDeletions" avatarUrlProperty="avatarUrl"
 
+  section.badges
+    h3 Badges
+
+    Lion.UserStats content=badgeStats pointsProperty="badgesCount" avatarUrlProperty="avatarUrl"

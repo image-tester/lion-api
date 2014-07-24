@@ -33,3 +33,4 @@ Lion.Stats = Lion.User.extend
   numberOfDeletions: DS.attr('number')
   pullRequestReviewsCount: DS.attr('number')
   completedTasksCount: DS.attr('number')
+  badgesCount: DS.attr('number')
